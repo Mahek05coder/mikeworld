@@ -1,3 +1,4 @@
 # mikeworld
-This is my first Git Repository
-Author- Mahek Takari
+This is my first Git Repository.
+PROJECT-Telemedicine.
+Author- Mahek Takari.
